@@ -4,4 +4,29 @@ A aplicação apresenta dados como número de episódios, avaliações, autores 
 
 ⚠️ Aviso: Este projeto pode não estar mais funcional devido à falta de atualizações e possíveis mudanças na API utilizada.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Este projeto também deu origem ao apelido "ANIMIGAS" (Anime + Igas), criado por Moisés Fernandes Uchiha.
